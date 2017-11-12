@@ -72,3 +72,23 @@ p {
 	line-height: 25px;
 	margin-bottom: 30px;
 }
+
+header {
+	background: #abc;
+	padding: 20px 0;
+	color: #fff;
+	margin-bottom: 50px;
+	font-size: 25px;
+}
+
+footer {
+	margin-top: 50px;
+	background: #bab;
+	padding: 20px 0;
+	color: #fff;
+	font-size: 25px;
+}
+
+a {
+	font-size: 14px;
+}
